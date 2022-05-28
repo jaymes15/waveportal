@@ -17,5 +17,5 @@ npx hardhat help
 RINKEBY NETWORK:
  - contract address: 0x465EAccAEA1D3A02BbA4875aF61211a69501ee50
 
- - Link to contract details on etherscan: https://rinkeby.etherscan.io/address/0x7f40423B12c7c101fdF19274eb033DEc5D8876b2
+ - Link to contract details on etherscan: https://rinkeby.etherscan.io/address/0x465EAccAEA1D3A02BbA4875aF61211a69501ee50
 
