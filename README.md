@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# Wave Portal Smart Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project allow user of this contract to wave and message each other. At a random instance a user get sent some ether.
 
 Try running some of the following tasks:
 
