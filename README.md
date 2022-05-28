@@ -1,6 +1,6 @@
 # Wave Portal Smart Contract
 
-This project allow user of this contract to wave and message each other. At a random instance a user get sent some ether.
+This project allow users of this contract to wave and message each other. At a random instance a user get sent some ether.
 
 Try running some of the following tasks:
 
