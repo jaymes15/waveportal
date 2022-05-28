@@ -1,0 +1,6 @@
+- npx hardhat accounts
+- npx hardhat test 
+- npx hardhat
+- npm install --save-dev hardhat
+- npm init -y
+- npx hardhat node
